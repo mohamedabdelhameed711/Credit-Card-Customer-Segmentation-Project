@@ -86,6 +86,7 @@ A comprehensive Jupyter Notebook for analyzing customer transaction data through
 ### 📦 Install Dependencies
 ``` pip install pandas numpy matplotlib seaborn scikit-learn ``` 
 
+---
 
 ## 📁 Data Description
 The notebook expects a CSV file (e.g., bank_transactions.csv) containing columns such as:
@@ -97,7 +98,7 @@ The notebook expects a CSV file (e.g., bank_transactions.csv) containing columns
 #### TransactionAmount:	Amount spent in the transaction
 #### OwnedProducts:	List of products owned
 
-
+---
 
 ## 📤 Output
 ### Cleaned and transformed dataset
@@ -106,11 +107,11 @@ The notebook expects a CSV file (e.g., bank_transactions.csv) containing columns
 
 ### Visual reports for business insight
 
+---
 
 ## 💡 Notes
 All plots follow the seaborn-v0_8-whitegrid style with a viridis color palette for visual clarity.
 
 Warnings are suppressed for smoother notebook execution.
-
 
 
